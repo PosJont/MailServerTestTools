@@ -24,7 +24,7 @@ namespace NF47_MailServerTest
         //設定smtp主機
         public string smtpAddress { get; set; }
         //設定Port
-        public int port { get; set; } = 587;
+        public int port { get; set; }
         public bool enableSSL { get; set; } = true;
         //填入寄送方email和密碼
         public string emailFrom { get; set; }
