@@ -1,0 +1,8 @@
+C:\Users\cont.ma\source\repos\NF47_MailServerTest\NF47_MailServerTest\obj\Debug\NF47_MailServerTest.csproj.AssemblyReference.cache
+C:\Users\cont.ma\source\repos\NF47_MailServerTest\NF47_MailServerTest\obj\Debug\NF47_MailServerTest.csproj.CoreCompileInputs.cache
+C:\Users\cont.ma\source\repos\NF47_MailServerTest\NF47_MailServerTest\bin\Debug\NF47_MailServerTest.exe.config
+C:\Users\cont.ma\source\repos\NF47_MailServerTest\NF47_MailServerTest\bin\Debug\NF47_MailServerTest.exe
+C:\Users\cont.ma\source\repos\NF47_MailServerTest\NF47_MailServerTest\bin\Debug\NF47_MailServerTest.pdb
+C:\Users\cont.ma\source\repos\NF47_MailServerTest\NF47_MailServerTest\obj\Debug\NF47_MailServerTest.exe
+C:\Users\cont.ma\source\repos\NF47_MailServerTest\NF47_MailServerTest\obj\Debug\NF47_MailServerTest.pdb
+C:\Users\cont.ma\source\repos\NF47_MailServerTest\NF47_MailServerTest\obj\Debug\NF47_MailServerTest.csproj.SuggestedBindingRedirects.cache
